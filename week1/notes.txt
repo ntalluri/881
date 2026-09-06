@@ -1,9 +1,3 @@
-Prior to each Tuesday morning class , write a short summary of the article or articles to be discussed that week: 
-one paragraph summarizing the article(s), 
-and a second paragraph describing your reaction (for example, aspects that you found surprising, interesting, or suspect). 
-The written summary should be less than a page but more than a couple of sentences. 
-Also include two or more discussion questions that might be used to stimulate discussion of the paper.
-
 
 Summary: 
 - Go through different ways to represent examples of tables 
@@ -11,8 +5,8 @@ Summary:
 - tables are the best suited for looking at specific info and graphs are best at showing trends, comparisons, and predictions
 - tables are more beginner friendly but if we are trying to show more comparisions than exact numbers to read off then tables are better to be more clear in displaying the data
 - most plots should be on an x y axis where the descriptive vars are ont eh x and outcome in on the y
-- the judgement of a good plot comes from some subjective bias
 - better to make multiple plots rather than cram into one
+- the judgement of a good plot comes from some subjective bias
 - making a "good" graph takes a bit of work but that work corresponds to graphs that show comparisions that the author finds interesting to be more clear
 - there is an initial investment into making a good graph from a table that will lead to better conclusions and comparisons that are not clear from just a table
 
