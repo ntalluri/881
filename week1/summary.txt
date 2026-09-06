@@ -1,1 +1,30 @@
-summary 1
+Prior to each Tuesday morning class , write a short summary of the article or articles to be discussed that week: 
+one paragraph summarizing the article(s), 
+and a second paragraph describing your reaction (for example, aspects that you found surprising, interesting, or suspect). 
+The written summary should be less than a page but more than a couple of sentences. 
+Also include two or more discussion questions that might be used to stimulate discussion of the paper.
+
+
+Summary: 
+- Go through different ways to represent examples of tables 
+- gives recommendations and suggestions about the kinds of plots and construction of plots that work well for presenting results specifically for stats research
+- tables are the best suited for looking at specific info and graphs are best at showing trends, comparisons, and predictions
+- tables are more beginner friendly but if we are trying to show more comparisions than exact numbers to read off then tables are better to be more clear in displaying the data
+- most plots should be on an x y axis where the descriptive vars are ont eh x and outcome in on the y
+- the judgement of a good plot comes from some subjective bias
+- better to make multiple plots rather than cram into one
+- making a "good" graph takes a bit of work but that work corresponds to graphs that show comparisions that the author finds interesting to be more clear
+- there is an initial investment into making a good graph from a table that will lead to better conclusions and comparisons that are not clear from just a table
+
+reaction:
+- Immediatly thought this paper was "stupid"; don't we know how to make plots. Then a second later thought, "I actually suck at making plots".
+- The note about the debate between graphs vs tables being a preference rather than a "science" was interesting to me. It makes sense because people interpret things differently and have a preference in trying to understand things. I know I have my own preferences (but I can't name them right now), but I know when I see some type of figures I don't "like" i don't look at them until they are explained to me in the paper, but if I see a plot I "like", I'll look at it and try to understand it. It might come from preference or me understanding some plots more than others. 
+- tables / graphs (data displays) can be hard to interpret by oneself without textual descriptions pairing with them. This feels like a flaw, and the table is just the visual way of explaining the trend you found.
+- reworking plots is an interative process. I forget about this, and sometimes feel like plots are less important and something to get done quick.
+- I've ran into issues of making too many multiple plots and it was harder for me to make comparisons and was better for me to make a more crammed plot
+- maybe using python packages isn't the best way to make plots? Using something else might be better? I struggle to know though what is better
+- I never thought to display a table + graph together, i usually just display the graph alone, but it made it easier to interpret the graph when I also saw the table without having to read the description.
+- feels like making graphs is an art that I am bad at rn. Reading all of section 3 seemed like slowly tweaking things until it was made into a very well understood graph, sometimes I don't know what to really do.
+- I wish there was rules I could follow that allow me to make "good" tables
+- I remember liking to use tablau to help with displays
+- It make get easier to make a graph that is good once I truly know what I am trying to display in the first place
