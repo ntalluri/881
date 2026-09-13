@@ -5,10 +5,10 @@ Transmission of the diease occured usually through swallowing material contamina
 
 Snow notes that cholera spreads fastest among the poor, where entire families shared one room, so a single case of the diease could infect the rest of the household quickly. However, contamination of a river by ships or sewers, when that water is then distributed through a water-works system, spreads the disease across all social classes rather than confining it to one.
 
-What stood out to me is the completeness of understanding the diease. Snow doesn't just state the mechanisms of the disease; instead he walks through examples case after case of what was really happening then makes his claims. The results read less like a "scientific paper" and more of an investigation or narrative that is approachable for readers without a background in medicine or science.
+What stood out to me is the completeness of understanding the diease. Snow doesn't just state the mechanisms of the disease; instead he walks through examples case after case of what was really happening before making his claims. The results read less like a "scientific paper" and more of an investigation or narrative that is approachable for readers without a background in medicine or science.
 
 That being said, I do think the amount of examples grew very repetitive and made the book very dense. It made it hard to keep track of every seperate claim snow made, and following and retaining all of them across the case material took a lot of effort. A table
-placed after each example (or a graph), instead of around page 50, would have helped me see all of the information better for each case was meant to establish instead of holding everything in my head. 
+placed after each example (or a graph), instead of around page 50, would have helped me see all of the information better for what case was meant to establish, instead of holding everything in my head. 
 
 I was honestly also curious about the evidence itself. I was curious how Snow was able to gather all of this information; gathering this many documented examples seems like it would be very difficult today. 
 
