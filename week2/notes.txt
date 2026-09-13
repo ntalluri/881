@@ -1,0 +1,27 @@
+Summary
+- This book seems to give a deep description of where cholera began, where it spread, how it moved, 
+- gives a more story view to understanding the disease (like on page 10 you can get a sense of how the disease moved between people through examples rather than be told it)
+- through the examples we learn that cholera is passed from person to person, however being in the same room with a patiend does not necessarily expose a person to cholera and that you don't need to be very near to the person wihthe disease to get the disease. In a sense, this diesase was spread in many different ways
+-  cholera begins with and centers on an infection of the the gastrointestinal tract
+- the disease appears like a general illness then advances quickly 
+- he tries to prove that cholera is a localized disease of the gut rather than some systemic blood poison
+- he proves his point by showing how saline injections temporarily reverse the physical collapse caused by dehydration.
+- he also outlines how the disease is transmitted: throguh fecal to oral transmission
+- habit like not cleaning and limited water lead to people transmitting this. Essentially accidently swallowing the disease.
+- doctors didn't catch the disease as much due to being "cleaner" and washing their hands
+- this concept at a time seemed to be revoltionaty when most of the medical community believed diseases like cholera were spread through bad air 
+- the disease mainly spread about poorer classes as the whole family lived in a single room, so when a patient has cholera, it spread fast when introduced
+- Snow used a specific case study to demonstrate that cholera was not caused by a "miasma" (bad air), but was instead a waterborne and foodborne disease propagated by ingesting material contaminated with the evacuations of cholera patients
+- In this scenario, the boiling of the broth initially killed the bacteria (keeping the first two people safe while it was warm), but the third person was infected after the cold broth sat and remained contaminated
+- wells pipes and water were getting contaminated from the waste that would be thrown out and this was a big cause to people contracting the disease 
+- cholera seemed to be able to survive so well because of the poor, uncleanliness, everyone sharing a room, water being contaminated, and people dying because they were dehydrated
+- contamination of a pump-well or limited water supply causes sudden, intense, but geographically restricted outbreaks.
+- however, contamination of a river (via ships or sewers) especially when distributed through a water-works system, can lead to a much more widely extended spread of the disease across all social classes.
+
+Reaction
+- it's really interesting to read a complete picture with examples of what was really happening with cholera.
+- the story (i guess) feels less "scientific" and very approachable for most readers. Being able to tell a story like this that is more approachable 
+- the examples and what is capturing did feel somewhat reptetive but I feel like the goal was more to capture the whole story and all occurances of what happened
+- the table would've been nice to see after each example to visulize the examples (a graph would've been even better)
+
+Discussion Questions
