@@ -14,6 +14,5 @@ I was honestly also curious about the evidence itself. I was curious how Snow wa
 
 
 Discussion Questions
-1) Snow builds his case from observed outbreaks rather than from controlled experiments. What can this kind of
-   evidence establish, and what does it leave open? Does the number of cases he documents able to compensate for the absence of a controlled experiment?
+1) Snow builds his case from observed outbreaks rather than from controlled experiments. What can this kind of evidence establish, and what does it leave open? Does the number of cases he documents able to compensate for the absence of a controlled experiment?
 2) How did Snow get all of these household-level data without the idea of centralized health records? What type of access and standing would that require of him and what would be missing from a dataset that was assembled this way?
