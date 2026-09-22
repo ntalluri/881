@@ -3,3 +3,10 @@ Coronary heart disease (CHD) was the leading cause of US death at the time this 
 When I was reading this trial, what interested me most was the covariates and confounders. I'm curious how they decided which factors were enough to leave someone out of the study. However, even after leaving all those people out, controlling something like diet brings in its own confounders, since they can't actually watch what anyone eats. The deaths do this too. It's interesting to read how no matter how much you try to control, life is hard to control, especially with a trial this long.
 
 What didn't suprise me was the exclusion of women or children. What did surprise me was the claim that the results extend to women and other age groups. They themselves excluded such a large group of screened men and women to protect the trial from confounding. Extending the findings to populations they deliberately kept out does not follow the data.
+
+
+Discussion questions: 
+
+1) A number of men in this trial died from things unrelated to heart disease, and more of them were in the drug group. The researchers seemed sure the drug wasn't the reason why. Was that a fair call they could make?
+
+2) The men who took this drug for 7-10 years did it without knowing whether they were on the real thing. Is that a fair thing to ask of people then? What about now?
