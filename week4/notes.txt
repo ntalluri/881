@@ -1,0 +1,78 @@
+NHS trial 
+- The NHS trial (which was observational) said hormones lowered heart disease risk but the WHI (which was randomized trial) said hormones raised heart disease risk
+- The WHI trial found higher CHD risk with hormone therapy but earlier NHS analyses found lower CHD risk in users (HR 0.68)
+- The dissagreemnt seemed to be that the NHS for lacking randomizatin, however the authors wanted to see if there could be other differences explain the gap
+- They redid the NHS trial to match what the WHI trial did
+- They used the same eligibility rules as the WHI
+- They had 8 "trials"; every 2 years, they compared women who started hormones with women who did not using different surveys
+- They 8 trials were pooled together
+- They ran two versions: ITT (women stay in their starting group, even if they switch later) and adherence-adjusted (estimates the effect if no one switched)
+- They started the clock when each woman began hormones 
+- 34575 women were eligible
+- ITT results:
+    Entire follow-up: HR 0.96 (0.78 to 1.18)
+    First year: HR 1.83 (1.05 to 3.17)
+    First 2 years: HR 1.42 (0.92 to 2.20)
+    Under 10 years since menopause: HR 0.84
+    10 or more years since menopause: HR 1.12
+- Adherence-adjusted results:
+    Entire follow-up: HR 0.98 (0.66 to 1.49)
+    First 2 years: HR 1.61 (0.97 to 2.66)
+    Under 10 years since menopause: HR 0.54 (0.19 to 1.51)
+    10 or more years since menopause: HR 1.20 (0.78 to 1.84)
+- Many of the women stopped therapy over time which seems to make the long-term estimates way more imprecise
+- What they found was that hormones did raise heart disease risk in the first 2 years (42% more risk; 1.46 hr)
+- Over the full follow-up, there was really no difference in risk (.96 hr)
+- they saw that women starting hormones within 10 years of menopause did better than later starters
+- The numbers they saw started to look similar to what was in WHI once they analyzed and matched the WHI trial
+- First 2 years: NHS 1.42 vs. WHI 1.68
+- Under 10 years since menopause: NHS 0.84 vs. WHI 0.88
+- 10 to 20 years since menopause: NHS 1.12 vs. WHI 1.23
+- After stratifying by time since menopause, somehow most of the gap disappeared
+- Time since menopause and follow-up length explain most of the WHI and NHS differeces
+- They say that residual confounding in the NHS seems to play little role in the differences
+- The results support the timing being the problem; that hormone therapy may raise CHD risk mainly in women starting 10 + years after menopause
+
+
+Robert Hoover commentary
+- The WHI results somehow shocked and created lots of debates between doctors, researchers, and media
+- however, the debate did cause for people to produce better ways to compare and combine study types
+- Both of the studies did show early extra risk after starting hormones with that risk being larger for women starting over 10 years after menopause
+- The trials may not apply to everyone. and the results depend on who is in the trial
+- He mentions that the trials are rarely large enough to test subgroups
+- The WHI's older women revealed why timing matters and the NHI studies struggled with showing that (the surverys being 2 years missed timing based events)
+
+Meir Stampfer commentary
+- He seemd to agree on the timing problem being the issue for the differences and there is hidden biases that are unlikely to explain the gaps
+- He had a lot more critism 
+- Found that using ITT in an observational studies data has weaknesses such as no randomization an the switching of women into different groups when they switched
+- The observational studies track what women actually take, but somehow the ITT throws that away
+- The 2 year "trials" does not give any benefits of randomization
+- The wrong / switching of the groups may have been the cause towards no effect (the hr 0.96)
+- He saw that the method did not work also that it was a black box and hard to follow
+
+Ross Prentice commentary
+- Talks more about the background and information about the WHI trial
+- mentions how hormones linked more to breast cancer, but earlier studies showed that hormones cut heart disease risk by 40-50%
+-  The WHI ran two trials with women aged 50 to 79: 16,608 women with a uterus got estrogen plus progestin or placebo and  10,739 women without a uterus got estrogen alone or placebo
+- the whi trials did stop early
+- Estrogen plus progestin stopped in 2002 because it seemed to be linked to more breast cancer, stroke, blood clots, and heart disease
+- Estrogen alone stopped in 2004 because it showed that stroke was at a higher risk but somehow the trial didn't show CHD effect in time
+-  WHI also had an observational study
+- he praises the careful matching to WHI rules
+- but he mentions that a real trial needs to be done to compare against groups
+- he also argues that trials are still needed when many people use a treatment
+- a big problem seems to be the adherence adjustments and switching. 
+- And there is limited knowledge on correctly modeling who stops treatment/ switches so results have to interpreted with some sort of caution
+
+Author response 1:
+- The old NHS and WHI disagreement came from the analysis, not from the data
+- Their method makes the disagreement disappear and their results support the timing hypothesis
+- there is bias in the NHS trial: healthy initiator bias, healthy continuer bias, and exposure misclassification
+- the  ITT analyses help estimate or bound each bias and the NHS method is the one that is the real black box
+
+Author response 2:
+- Agree with Stampfer and recommend to not use the setup used 
+- Somehow copying the WHI design removed many CHD cases among recently menopausal women which weighted results toward late starters
+- They agree the studies differ mainly by time since menopause
+- WHI results should not apply to women starting near menopause and NHS results should not apply to women starting many years after menopause
