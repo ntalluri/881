@@ -12,7 +12,7 @@ Mortality rates in the >=75 group are about 50x higher than in the other age gro
 
 ## How would you make a comprehensive graph that includes all of the information in the table (the additional outcomes incidence, prevalence, MIR, and DALYs lost)?
 
-I would extend my mortality figure into many grid of panels so I would have 15 panels. Each row would be one outcome (incidence, prevalence, MIR, DALYs lost, and mortality), and each column would be one age group (<75, ≥75, and all ages). Every panel would use the same design as the mortality figure; points for the estimates, error bars for the 95% CIs, lines connecting the years, color for income group, and actual years on the x-axis. I would also keep the log scale; equal slopes would mean equal percent change across age groups and outcomes, so a reader could compare slopes across all of the panels. This way, once a reader understands one panel, they can hopefully read all of them.
+I would extend my mortality figure into many grid of panels so I would have 15 panels. Each row would be one outcome (incidence, prevalence, MIR, DALYs lost, and mortality), and each column would be one age group (<75, >=75, and all ages). Every panel would use the same design as the mortality figure; points for the estimates, error bars for the 95% CIs, lines connecting the years, color for income group, and actual years on the x-axis. I would also keep the log scale; equal slopes would mean equal percent change across age groups and outcomes, so a reader could compare slopes across all of the panels. This way, once a reader understands one panel, they can hopefully read all of them.
 
 ### Appendix (Code used)
 
