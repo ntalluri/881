@@ -1,0 +1,9 @@
+In observational studies, the treated and control groups differ, so any naive comparisons can be biased. The authors of this paper propose adjusting for a single number, the propensity score, instead of for all observed covariates. The propensity score is the probability of receiving treatment given covariates x; e(x) = P(x=1|x). A score has two potential outcomes: r1 if treated and r0 if not. Only one is observed, so estimating a causal effect is a missing data problem. The goal is the average treatment effect, E(r1) − E(r0). The propensity score also happens to be a balencing score; the treated and controls have the same distribution of x. The balences allows then to make two assumptions: no unmeasured confounders given x and every part of the score has some chance of either treatment. If this holds this means the difference between the treated and control at a given prospensity score is an unbiased estimate of the effect at that score. 
+
+To be honest, this paper was very difficult for me to follow. The notation and proofs are dense, and without other information to understand the main argument, I feel like I didn't fully understand this whole paper. I did my best to capture the key points, but I definitly missed details.
+
+The main claim itself did surprise me: a single score can balance all observed covariates. However, I have never heard of this score before reading this paper, so this makes me feel like this score is too good to be true or in reality it is heard to apply in practice. With a deeper understanding, I think I could figure out if this would be useful for analyzing observational data.
+
+Discussion questions:
+1) Would you use the propensity score in your own work?
+2) Would it have been more helpful to read an introductory explanation of the propensity score before reading the original paper?
